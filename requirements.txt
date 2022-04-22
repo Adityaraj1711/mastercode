@@ -17,7 +17,7 @@ psycopg2==2.8.3
 pycparser==2.19
 pylokit==0.8.1
 pyparsing==2.2.0
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pytesseract==0.2.7
 python-docx==0.8.10
 pytz==2019.1
